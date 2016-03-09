@@ -24,5 +24,15 @@ int main() {
     cout << "zhangsan's age is : " << zhangsan.age << endl;
     cout << "lisi's  height is : " << lisi.height  << endl;
 
+    student classone[2] =
+            {
+                    {"One",10,10.0},
+                    {"Two",20,20.0}
+            };
+
+    cout << "One's name is " << classone[0].name << endl;
+    cout << "Two's name is " << classone[1].name << endl;
+
+
     return 0;
 }
