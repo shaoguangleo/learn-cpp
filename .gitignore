@@ -6,7 +6,6 @@
 *.iml
 out
 gen
-CMakeLists.txt
 # Created by .ignore support plugin (hsz.mobi)
 a.out
 main.cpp
